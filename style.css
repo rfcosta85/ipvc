@@ -56,14 +56,14 @@ div.logo
 
     width: 50%;
     margin: 0% 3%;
-    padding-top: 2%;
+    padding-top: 2%;    
 
 }
 
 img#logo
 {
 
-    height: 120px;      
+    height: 120px;        
 
 }
 
@@ -82,4 +82,66 @@ div#title
 
 }
 
+div#jackson
+{
+
+    display: flex;
+
+}
+
+div#leonardo
+{
+
+    display: flex;
+
+}
+
+h4.informations
+{
+
+    margin: auto;
+
+}
+
+div#server
+{
+
+    width: 50%;
+    height: 100px;
+    margin: auto;
+    margin-top: 2%;
+    padding-top: 0.2%;
+    background-color: #776669;
+    
+}
+
+p.server_paragrath
+{
+
+    color: white;
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: bolder;
+    margin-top: 2%;
+
+}
+
+footer
+{
+
+    margin-top: 6%;
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    color:white;
+
+}
+
+.fab fa-python
+{
+
+    height: 600px;
+    
+
+}
 
