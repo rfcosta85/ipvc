@@ -26,6 +26,31 @@ header
 
 }
 
+p#photo
+{
+
+    color: white;
+    font: bolder;
+    text-shadow: 3px 3px 3px black;
+    font-size: 1.2rem;
+    margin-top: 2%;
+
+}
+
+a.photo
+{
+
+    color: white;
+
+}
+
+a.photo:hover
+{
+
+    color: red;
+
+}
+
 div.logo
 {
 
